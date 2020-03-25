@@ -1,0 +1,5 @@
+/Users/maxreeves/C#/MedicalDirector.MaxReeves/MedicalDirector.MaxReeves/bin/Debug/MedicalDirector.MaxReeves.exe
+/Users/maxreeves/C#/MedicalDirector.MaxReeves/MedicalDirector.MaxReeves/bin/Debug/MedicalDirector.MaxReeves.pdb
+/Users/maxreeves/C#/MedicalDirector.MaxReeves/MedicalDirector.MaxReeves/obj/Debug/MedicalDirector.MaxReeves.csprojAssemblyReference.cache
+/Users/maxreeves/C#/MedicalDirector.MaxReeves/MedicalDirector.MaxReeves/obj/Debug/MedicalDirector.MaxReeves.exe
+/Users/maxreeves/C#/MedicalDirector.MaxReeves/MedicalDirector.MaxReeves/obj/Debug/MedicalDirector.MaxReeves.pdb

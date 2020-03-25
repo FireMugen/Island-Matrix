@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2FE21E1A-C83C-4FD5-A999-E724B73EAB95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MedicalDirector.MaxReeves/Program.cs">
+    <Files>
+      <File FileName="MedicalDirector.MaxReeves/Program.cs" Line="67" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MedicalDirector.MaxReeves" expanded="True">
+            <Node name="MedicalDirector.MaxReeves" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.MedicalDirector.MaxReeves PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
